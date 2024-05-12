@@ -23,32 +23,32 @@ const Footer = () => {
                     <nav class="nav_otr">
                         <ul class="menu_ul">
                             <li class="menu_li">
-                                <Link  class="menu_link heading-sm">
+                                <Link  class="menu_link heading-sm" to='/'>
                                     Home
                                 </Link>
                             </li>
                             <li class="menu_li">
-                                <Link  class="menu_link heading-sm">
+                                <Link  class="menu_link heading-sm" to='/service'>
                                     Services
                                 </Link>
                             </li>
                             <li class="menu_li">
-                                <Link  class="menu_link heading-sm">
+                                <Link  class="menu_link heading-sm" to='/work'>
                                     Work
                                 </Link>
                             </li>
                             <li class="menu_li">
-                                <Link  class="menu_link heading-sm">
+                                <Link  class="menu_link heading-sm" to='/process'>
                                     Process
                                 </Link>
                             </li>
                             <li class="menu_li">
-                                <Link  class="menu_link heading-sm">
+                                <Link  class="menu_link heading-sm" to='/about'>
                                     About
                                 </Link>
                             </li>
                             <li class="menu_li">
-                                <Link class="menu_link heading-sm">
+                                <Link class="menu_link heading-sm" to='/career'>
                                     Careers
                                 </Link>
                             </li>
