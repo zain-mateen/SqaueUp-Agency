@@ -1,0 +1,58 @@
+export const FaqData = [
+    {
+        id: "1",
+        KeyNum:"0",
+        FaqCartNumber: "01",
+        FaqCartHeading: "What services does SquareUp provide?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "2",
+        KeyNum:"1",
+        FaqCartNumber: "02",
+        FaqCartHeading: "Do you offer ongoing support and maintenance after the project is completed?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "3",
+        KeyNum:"2",
+        FaqCartNumber: "03",
+        FaqCartHeading: "How can SquareUp help my business?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "4",
+        KeyNum:"3",
+        FaqCartNumber: "04",
+        FaqCartHeading: "What industries does SquareUp work with?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "5",
+        KeyNum:"4",
+        FaqCartNumber: "05",
+        FaqCartHeading: "How long does it take to complete a project with SquareUp?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "6",
+        KeyNum:"5",
+        FaqCartNumber: "06",
+        FaqCartHeading: "Can you work with existing design or development frameworks?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "7",
+        KeyNum:"6",
+        FaqCartNumber: "07",
+        FaqCartHeading: "How involved will I be in the project development process?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+    {
+        id: "8",
+        KeyNum:"7",
+        FaqCartNumber: "08",
+        FaqCartHeading: "Can you help with website or app maintenance and updates?",
+        FAQCartDesc: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    },
+]
