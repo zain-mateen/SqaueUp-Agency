@@ -93,6 +93,16 @@ p{
   font-size: 38px;
   line-height: 46px;
   font-family: $font-family-Barlow-SemiBold;
+
+  @media (max-width: 1440px) {
+    font-size: 30px;
+    line-height: 38px;
+  }
+
+  @media (max-width: 768px) {
+    font-size: 24px;
+    line-height: 32px;
+  }
 }
 
 .heading-h4{
