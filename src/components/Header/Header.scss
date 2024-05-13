@@ -42,7 +42,12 @@
             .close_icon_otr{
 
                 svg{
-                    color: $Green-50;
+                    color: $Green-80;
+                    transition: .3s;
+
+                    &:hover{
+                        color: $Green-50;
+                    }
                 }
             }
         }
