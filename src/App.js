@@ -7,6 +7,7 @@ import BlogPage from './components/BlogPage/BlogPage';
 import ProcessPage from './components/ProcessPage/ProcessPage';
 import AboutUsPage from './components/AboutUsPage/AboutUsPage';
 import CareerPage from './components/CareerPage/CareerPage';
+import ContactPage from './components/ContactPage/ContactPage';
 import Footer from './components/Footer/Footer';
 
 import './App.scss';
@@ -22,6 +23,7 @@ function App() {
         <Route path='process' element={<ProcessPage />} />
         <Route path='work' element={<BlogPage />} />
         <Route path='career' element={<CareerPage />} />
+        <Route path='contact' element={<ContactPage />} />
       </Routes>
       <Footer />
     </div>
